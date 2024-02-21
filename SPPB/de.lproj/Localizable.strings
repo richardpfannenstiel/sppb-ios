@@ -1,0 +1,182 @@
+/* Application Settings */
+"Disable Skipping Tests" = "Überspringen deaktivieren";
+"Skipping Tests Text" = "Wenn diese Option aktiviert ist, werden alle Tests durchgeführt, unabhängig davon, ob ein vorheriger Test fehlgeschlagen ist, was normalerweise dazu führt, dass folgende Tests übersprungen werden.";
+
+"Show Pose Overlay" = "Skelett anzeigen";
+"Pose Overlay Text" = "Visualisiert die erkannte Pose in jedem Bild mit einer Überlagerung, die die geschätzte Position der Gelenke des Patienten anzeigt.";
+
+/* Examination Environment */
+"What type of assessment are you conducting?" = "Welche Beurteilung wird durchgeführt?";
+"Research" = "Forschung";
+"Clinical" = "Klinisch";
+"Individual Test" = "Einzelner Test";
+
+"Date" = "Datum";
+"SubjectID" = "Subjekt Identifikation";
+"Patient" = "Patient";
+"Investigator" = "Ermittler";
+"Physician" = "Arzt";
+"Administrator" = "Administrator";
+
+"Select Location" = "Standort auswählen";
+"Medical Facility" = "Medizinische Einrichtung";
+"Home" = "Zuhause";
+"Nursing Home" = "Pflegeheim";
+
+/* Common Text Labels */
+"Loading" = "Laden";
+"Show Model" = "Zeige Model";
+"Seconds" = "Sekunden";
+"Repetitions" = "Wiederholungen";
+
+/* Button Labels */
+"Let's Start" = "Los geht's";
+"Select Reason" = "Grund auswählen";
+"Continue" = "Weiter";
+"Redo" = "Wiederholen";
+"Start" = "Start";
+"Force Start" = "Start erzwingen";
+"Abort" = "Abbrechen";
+"I understand" = "Verstanden";
+
+/* Test Instructions */
+"Explanation Text" = "Alle Tests sollten in der gleichen Reihenfolge durchgeführt werden, wie sie in dieser App dargestellt werden.\n\nAnweisungen für den Patienten werden in Kursivschrift angezeigt und sollten genau so wiedergegeben werden, wie sie geschrieben sind.";
+"Introduction Text" = "Beginnen wir nun mit der Auswertung.\n\nIch möchte, dass Sie nun versuchen, Ihren Körper in verschiedenen Bewegungen zu bewegen. Ich werde Ihnen zunächst jede Bewegung beschreiben und zeigen. Dann möchte ich, dass Sie es versuchen. Wenn Sie eine bestimmte Bewegung nicht ausführen können oder das Gefühl haben, dass es unsicher wäre, sie auszuprobieren, sagen Sie es mir und wir machen mit der nächsten weiter. Lassen Sie mich betonen, dass ich nicht möchte, dass Sie versuchen, eine Übung zu machen, die Ihrer Meinung nach unsicher sein könnte.\n\nHaben Sie Fragen, bevor wir beginnen?";
+
+/* Test Result */
+"Reason for not Completing the Test" = "Grund für die Nichtdurchführung des Tests";
+"Tried but unable" = "Versucht, aber nicht möglich";
+"Participant could not hold position unassisted" = "Der Teilnehmer konnte die Position nicht ohne Hilfe halten";
+"Not attempted, you felt unsafe" = "Nicht versucht, du fühlst unsicher";
+"Not attempted, participant felt unsafe" = "Kein Versuch, Patient fühlt sich unsicher";
+"Participant unable to understand instructions" = "Teilnehmer kann Anweisungen nicht verstehen";
+"Participant refused" = "Teilnehmer lehnte ab";
+
+"Test Completed" = "Test Abgeschlossen";
+"Skipped" = "Übersprungen";
+"Test Aborted" = "Test Abgebrochen";
+"Movement Detected" = "Bewegung erkannt";
+"Arm Movement Detected" = "Armbewegung erkannt";
+"Maximum Time Exceeded" = "Maximale Zeit überschritten";
+
+"The participant tried the exercise but was unable to complete it." = "Der Teilnehmer versuchte die Übung, konnte sie aber nicht beenden.";
+"The participant was not able to hold the position unassisted." = "Der Teilnehmer konnte die Position nicht ohne Hilfe halten.";
+"The test was not attempted as the instructor felt unsafe." = "Der Test wurde nicht durchgeführt, da sich der Instruktor unsicher fühlte.";
+"The test was not attempted as the participant felt unsafe." = "Der Test wurde nicht durchgeführt, da sich der Teilnehmer unsicher fühlte.";
+"The participant was unable to understand the test instructions." = "Der Teilnehmer war nicht in der Lage, die Testanweisungen zu verstehen.";
+"The participant refused to conduct the test." = "Der Teilnehmer weigerte sich, den Test durchzuführen.";
+"The test was automatically skipped due to a previous test not being completed sucessfully." = "Der Test wurde automatisch übersprungen, weil ein vorheriger Test nicht erfolgreich abgeschlossen wurde.";
+"The test was manually aborted after $time seconds." = "Der Test wurde nach $time Sekunden manuell abgebrochen.";
+"The pose was not held long enough." = "Die Pose wurde nicht lange genug gehalten.";
+"The arms were not kept folded across the chest." = "Die Arme blieben nicht vor der Brust verschränkt.";
+"The maximum time allowed for this test was exceeded." = "Die maximal zulässige Zeit für diesen Test wurde überschritten.";
+"The pose was held for more than $time seconds." = "Die Pose wurde für mehr als $time Sekunden gehalten.";
+"The gait speed test was completed successfully." = "Der Gang Test wurde erfolgreich abgeschlossen";
+"The chair stand was completed successfully." = "Der Stuhl-Aufsteh Test wurde erfolgreich abgeschlossen.";
+
+/* Recording */
+"Resize and align the frame to focus the patient." = "Verschiebe den Bildaussschnitt, um den Patienten zu fokussieren.";
+"Image could not be loaded." = "Das Vorschaubild konnte nicht geladen werden.";
+"Analyze" = "Analysieren";
+"Analyzing" = "Analysiere";
+
+/*
+ Short Physical Performance Battery Tests
+ */
+
+"Short Physical Performance Battery" = "Short Physical Performance Battery";
+
+/* Balance Tests */
+"Balance Tests" = "Balance Tests";
+"Balance" = "Balance";
+
+"Side-by-Side Stand" = "Geschlossener Stand";
+"Side-by-Side Instruction Text" = "Jetzt zeige ich Ihnen die erste Bewegung.\n\nIch möchte, dass Sie versuchen, etwa 10 Sekunden lang Seite an Seite mit geschlossenen Füßen zu stehen.\nSie können Ihre Arme benutzen, Ihre Knie beugen oder Ihren Körper bewegen um das Gleichgewicht zu halten, aber versuchen Sie, Ihre Füße nicht zu bewegen. Versuchen Sie, diese Position zu halten, bis ich Ihnen sage, dass Sie aufhören sollen.";
+
+"Semi-Tandem Stand" = "Semi-Tandem Stand";
+"Semi-Tandem Instruction Text" = "Jetzt zeige ich Ihnen die zweite Bewegung.\n\nIch möchte, dass Sie versuchen, etwa 10 Sekunden lang so zu stehen, dass die Seite der Ferse eines Fußes die große Zehe des anderen Fußes berührt. Sie können auswählen, welchen Fuß Sie nach vorne stellen, je nachdem, was für Sie bequemer ist.\nSie können Ihre Arme benutzen, Ihre Knie beugen oder Ihren Körper bewegen, um das Gleichgewicht zu halten, aber versuchen Sie, Ihre Füße nicht zu bewegen. Versuchen Sie, diese Position zu halten, bis ich Ihnen sage, dass Sie aufhören sollen.";
+
+"Tandem Stand" = "Tandem Stand";
+"Tandem Instruction Text" = "Jetzt zeige ich Ihnen die dritte Bewegung.\n\nIch möchte, dass Sie versuchen, etwa 10 Sekunden lang mit der Ferse eines Fußes vor den Zehen des anderen Fußes zu stehen und diese zu berühren. Sie können auswählen, welchen Fuß Sie nach vorne stellen, je nachdem, was für Sie bequemer ist.\nSie können Ihre Arme benutzen, Ihre Knie beugen oder Ihren Körper bewegen, um das Gleichgewicht zu halten, aber versuchen Sie, Ihre Füße nicht zu bewegen. Versuchen Sie, diese Position zu halten, bis ich Ihnen sage, dass Sie aufhören sollen.";
+
+"Please help the patient to get into the position." = "Bitte hilf dem Patienten, in die Position zu kommen.";
+"Pose detected\nYou may start the test." = "Pose erkannt\nDu kannst den Test starten.";
+
+/* Gait Tests */
+"Gait Speed Tests" = "Gang Tests";
+"Gait Speed" = "Gang";
+"Average Speed" = "Geschwindigkeit";
+
+"First Gait Speed Test" = "Erster Gang Test";
+"First Gait Speed Instructions Text" = "Jetzt werde ich beobachten, wie Sie normalerweise gehen. Wenn Sie einen Stock oder eine andere Gehhilfe verwenden und das Gefühl haben, dass Sie diese zum Gehen einer kurzen Strecke benötigen, können Sie diese verwenden.\n\nDies ist unser Gehkurs. Ich möchte, dass Sie in Ihrem gewohnten Tempo zum anderen Ende des Kurses gehen, so als würden Sie die Straße entlanggehen, um zum Einkaufen zu gehen. Überschreiten Sie vollständig die Ziellinie, bevor Sie anhalten. Glauben Sie, dass dies sicher wäre?\nDenken Sie daran, in Ihrem gewohnten Tempo zu gehen und bis zum anderen Ende des Kurses zu gehen.";
+
+"Second Gait Speed Test" = "Zweiter Gang Test";
+"Subsequent Gait Speed Instructions Text" = "Jetzt möchte ich, dass Sie den Lauf wiederholen. Denken Sie daran, in Ihrem gewohnten Tempo zu laufen und bis zum anderen Ende der Strecke zu gehen.";
+
+"Please help the patient to take the start position." = "Bitte hilf dem Patienten, die Ausgangsposition einzunehmen.";
+"Start pose detected\nYou may start the test." = "Startpose erkannt\nDu kannst den Test starten.";
+
+/* Chair Stand Tests */
+"Chair Stand Tests" = "Stuhl Aufsteh Tests";
+"Chair Stand" = "Aufstehen";
+
+"Single Chair Stand Test" = "Stuhl Aufsteh Test";
+"Single Chair Stand Instructions Text" = "Machen wir den letzten Bewegungstest.\n\nGlauben Sie, dass es für Sie sicher wäre, zu versuchen, von einem Stuhl aufzustehen, ohne Ihre Arme zu benutzen? Der nächste Test misst die Kraft in Ihren Beinen. Verschränken Sie zunächst Ihre Arme vor der Brust und setzen Sie sich so hin, dass Ihre Füße auf dem Boden stehen. Stehen Sie dann auf und halten Sie die Arme vor der Brust verschränkt.";
+
+"Repeated Chair Stand Test" = "Wiederholter Stuhl Aufsteh Test";
+"Repeated Chair Stand Instructions Text" = "Glauben Sie, dass es für Sie ungefährlich wäre, fünfmal zu versuchen, von einem Stuhl aufzustehen, ohne Ihre Arme zu benutzen? Bitte stehen Sie so SCHNELL wie möglich fünfmal aufrecht auf, ohne zwischendurch anzuhalten. Setzen Sie sich nach jedem Aufstehen hin und stehen Sie dann wieder auf. Halten Sie Ihre Arme vor der Brust verschränkt.";
+
+"Start position taken\nYou may start the test." = "Startposition eingenommen\nDu kannst mit dem Test beginnen.";
+"Please ask the patient to fold their arms across the chest." = "Bitte den Patienten, die Arme vor der Brust zu verschränken.";
+"Please remind the patient not to use their arms." = "Erinnere den Patienten daran, seine Arme nicht zu benutzen.";
+"Please ask the patient to sit down onto the chair." = "Bitte den Patienten, sich auf den Stuhl zu setzen.";
+"Stand up" = "Steh auf";
+"Ready to start" = "Bereit zum Start";
+
+/* Results Export */
+"Total" = "Total";
+"Points" = "Punkte";
+"Battery Results" = "Ergebnisse";
+"Tab on the individual parts of the diagram to show details." = "Tippe auf die einzelnen Teile des Diagramms, um Details anzuzeigen.";
+"Tab on a diagram to show more details about the test result." = "Tippe auf ein Diagramm, um weitere Details über das Testergebnis anzuzeigen.";
+"Save" = "Speichern";
+
+"Share Results" = "Ergebnisse teilen";
+"Select how you would like to save the obtained test results." = "Wähle aus, wie du die Testergebnisse speichern möchten.";
+"Print" = "Drucken";
+"Export" = "Exportieren";
+"As PDF document" = "Als PDF Dokument";
+"As CSV file" = "Als CSV Datei";
+"Reset" = "Reset";
+"Warning" = "Warnung";
+"Are you sure you want to reset the battery?\n\nThis will permanently erase the obtained test results in the application. Make sure you've exported and saved any data beforehand." = "Bist du sicher, dass du die App zurücksetzen möchtest?\n\nDadurch werden die erzielten Testergebnisse dauerhaft gelöscht. Vergewissere dich, dass du zuvor alle Daten exportiert und gespeichert hast.";
+
+"Test Results" = "Test Ergebnisse";
+
+/* Movement Abnormalities */
+"Movement Details" = "Bewegungsdetails";
+"Detected conspicuities in the patient's movement" = "Erkannte Auffälligkeiten in der Bewegung des Patienten";
+"The patient performed the exercise as expected and kept his arms crossed in front of the chest during the exercise." = "Der Patient führte die Übung erwartungsgemäß aus und hielt die Arme während der Übung vor der Brust verschränkt";
+
+"The right arm (from an observer's perspective) was significantly bent more than $share% of the time." = "Der rechte Arm war (aus Sicht des Beobachters) mehr als $share% der Zeit signifikant angewinkelt.";
+"The left arm (from an observer's perspective) was significantly bent more than $share% of the time." = "Der linke Arm war (aus Sicht des Beobachters) mehr als $share% der Zeit signifikant angewinkelt.";
+"Both arms were kept hanging straight for most of the time." = "Beide Arme hingen die meiste Zeit gerade.";
+"The patient used their arms $share% of the time to keep the balance." = "Der Patient benutzte seine Arme $share% der Zeit, um das Gleichgewicht zu halten.";
+"The patient didn't need their arms to hold the balance pose." = "Der Patient brauchte seine Arme nicht, um die Balance Pose zu halten.";
+"They hardly moved at all during the exercise." = "Der Patient hat sich während der Übung kaum bewegt.";
+"They occasionally swayed slightly during the exercise." = "Der Patient schwankte gelegentlich leicht während der Übung.";
+"They wobbled noticeably during the exercise." = "Der Patient wackelte während der Übung merklich.";
+
+"The maximum step length was exceptionally short during the gait." = "Die maximale Schrittlänge war während des Gangs außergewöhnlich kurz.";
+"The maximum step length was slightly short during the gait." = "Die maximale Schrittlänge war während des Gangs etwas kurz.";
+"The step length was average during the gait." = "Die Schrittlänge war während des Gangs durchschnittlich.";
+"The step length was well above average during the gait." = "Die Schrittlänge lag während des Gangs weit über dem Durchschnitt.";
+"The patient covered the course in a straight line." = "Der Patient legte die Strecke in einer geraden Linie zurück.";
+"The patient walked the course, swaying slightly." = "Der Patient ging die Strecke mit leichtem Schwanken.";
+"The patient walked slightly in serpentine lines." = "Der Patient ging leicht in Schlangenlinien.";
+
+"The patient was unable to cross his arms correctly in front of his chest for more than $share% of the time." = "Der Patient war nicht in der Lage, seine Arme länger als $share% der Zeit korrekt vor der Brust zu verschränken.";
+"The arms were used illegally for $share% of the time. Perhaps they supporting the patient to stand up." = "Die Arme wurden in $share% der Zeit verbotenerweise benutzt. Vielleicht unterstützen sie den Patienten beim Aufstehen.";
+"The knee angles of both legs differed significantly during the exercise. The load on the legs is possibly asymmetrical." = "Die Kniewinkel der beiden Beine unterschieden sich während der Übung deutlich. Die Belastung der Beine ist möglicherweise asymmetrisch.";
+
+

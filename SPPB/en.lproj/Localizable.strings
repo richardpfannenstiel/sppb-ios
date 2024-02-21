@@ -1,0 +1,181 @@
+/* Application Settings */
+"Disable Skipping Tests" = "Disable Skipping Tests";
+"Skipping Tests Text" = "If enabled, all tests of the battery will be conducted regardless if a preceding test failed which usually results in other tests being skipped.";
+
+"Show Pose Overlay" = "Show Pose Overlay";
+"Pose Overlay Text" = "Visualize the detected pose in each frame with an overlay displaying the estimated position of the subject's joints.";
+
+/* Examination Environment */
+"What type of assessment are you conducting?" = "What type of assessment are you conducting?";
+"Research" = "Research";
+"Clinical" = "Clinical";
+"Individual Test" = "Individual Test";
+
+"Date" = "Date";
+"SubjectID" = "SubjectID";
+"Patient" = "Patient";
+"Investigator" = "Investigator";
+"Physician" = "Physician";
+"Administrator" = "Administrator";
+
+"Select Location" = "Select Location";
+"Medical Facility" = "Medical Facility";
+"Home" = "Home";
+"Nursing Home" = "Nursing Home";
+
+/* Common Text Labels */
+"Loading" = "Loading";
+"Show Model" = "Show Model";
+"Seconds" = "Seconds";
+"Repetitions" = "Repetitions";
+
+/* Button Labels */
+"Let's Start" = "Let's Start";
+"Select Reason" = "Select Reason";
+"Continue" = "Continue";
+"Redo" = "Redo";
+"Start" = "Start";
+"Force Start" = "Force Start";
+"Abort" = "Abort";
+"I understand" = "I understand";
+
+/* Test Instructions */
+"Explanation Text" = "All of the tests should be performed in the same order as they are presented in this application.\n\nInstructions to the participant are shown in italic font and should be given exactly as they are written.";
+"Introduction Text" = "Now let’s begin the evaluation.\n\nI would now like you to try to move your body in different movements. I will first describe and show each movement to you. Then I’d like you to try to do it. If you cannot do a particular movement, or if you feel it would be unsafe to try to do it, tell me and we’ll move on to the next one. Let me emphasize that I do not want you to try to do any exercise that you feel might be unsafe.\n\nDo you have any questions before we begin?";
+
+/* Test Result */
+"Reason for not Completing the Test" = "Reason for not Completing the Test";
+"Tried but unable" = "Tried but unable";
+"Participant could not hold position unassisted" = "Participant could not hold position unassisted";
+"Not attempted, you felt unsafe" = "Not attempted, you felt unsafe";
+"Not attempted, participant felt unsafe" = "Not attempted, participant felt unsafe";
+"Participant unable to understand instructions" = "Participant unable to understand instructions";
+"Participant refused" = "Participant refused";
+
+"Test Completed" = "Test Completed";
+"Skipped" = "Skipped";
+"Test Aborted" = "Test Aborted";
+"Movement Detected" = "Movement Detected";
+"Arm Movement Detected" = "Arm Movement Detected";
+"Maximum Time Exceeded" = "Maximum Time Exceeded";
+
+"The participant tried the exercise but was unable to complete it." = "The participant tried the exercise but was unable to complete it.";
+"The participant was not able to hold the position unassisted." = "The participant was not able to hold the position unassisted.";
+"The test was not attempted as the instructor felt unsafe." = "The test was not attempted as the instructor felt unsafe.";
+"The test was not attempted as the participant felt unsafe." = "The test was not attempted as the participant felt unsafe.";
+"The participant was unable to understand the test instructions." = "The participant was unable to understand the test instructions.";
+"The participant refused to conduct the test." = "The participant refused to conduct the test.";
+"The test was automatically skipped due to a previous test not being completed sucessfully." = "The test was automatically skipped due to a previous test not being completed sucessfully.";
+"The test was manually aborted after $time seconds." = "The test was manually aborted after $time seconds.";
+"The pose was not held long enough." = "The pose was not held long enough.";
+"The arms were not kept folded across the chest." = "The arms were not kept folded across the chest.";
+"The maximum time allowed for this test was exceeded." = "The maximum time allowed for this test was exceeded.";
+"The pose was held for more than $time seconds." = "The pose was held for more than $time seconds.";
+"The gait speed test was completed successfully." = "The gait speed test was completed successfully.";
+"The chair stand was completed successfully." = "The chair stand was completed successfully.";
+
+/* Recording */
+"Resize and align the frame to focus the patient." = "Resize and align the frame to focus the patient.";
+"Image could not be loaded." = "Image could not be loaded.";
+"Analyze" = "Analyze";
+"Analyzing" = "Analyzing";
+
+/*
+ Short Physical Performance Battery Tests
+ */
+
+"Short Physical Performance Battery" = "Short Physical Performance Battery";
+
+/* Balance Tests */
+"Balance Tests" = "Balance Tests";
+"Balance" = "Balance";
+
+"Side-by-Side Stand" = "Side-by-Side Stand";
+"Side-by-Side Instruction Text" = "Now I will show you the first movement.\n\nI want you to try to stand with your feet together, side-by-side, for about 10 seconds.\nYou may use your arms, bend your knees, or move your body to maintain your balance, but try not to move your feet. Try to hold this position until I tell you to stop.";
+
+"Semi-Tandem Stand" = "Semi-Tandem Stand";
+"Semi-Tandem Instruction Text" = "Now I will show you the second movement.\n\nNow I want you to try to stand with the side of the heel of one foot touching the big toe of the other foot for about 10 seconds. You may put either foot in front, whichever is more comfortable for you.\nYou may use your arms, bend your knees, or move your body to maintain your balance, but try not to move your feet. Try to hold this position until I tell you to stop.";
+
+"Tandem Stand" = "Tandem Stand";
+"Tandem Instruction Text" = "Now I will show you the third movement.\n\nNow I want you to try to stand with the heel of one foot in front of and touching the toes of the other foot for about 10 seconds. You may put either foot in front, whichever is more comfortable for you.\nYou may use your arms, bend your knees, or move your body to maintain your balance, but try not to move your feet. Try to hold this position until I tell you to stop.";
+
+"Please help the patient to get into the position." = "Please help the patient to get into the position.";
+"Pose detected\nYou may start the test." = "Pose detected\nYou may start the test.";
+
+/* Gait Tests */
+"Gait Speed Tests" = "Gait Speed Tests";
+"Gait Speed" = "Gait Speed";
+"Average Speed" = "Average Speed";
+
+"First Gait Speed Test" = "First Gait Speed Test";
+"First Gait Speed Instructions Text" = "Now I am going to observe how you normally walk. If you use a cane or other walking aid and you feel you need it to walk a short distance, then you may use it.\n\nThis is our walking course. I want you to walk to the other end of the course at your usual speed, just as if you were walking down the street to go to the store. Walk all the way past the other end of the tape before you stop. Do you feel this would be safe?\nRemember to walk at your usual pace, and go all the way past the other end of the course.";
+
+"Second Gait Speed Test" = "Second Gait Speed Test";
+"Subsequent Gait Speed Instructions Text" = "Now I want you to repeat the walk. Remember to walk at your usual pace, and go all the way past the other end of the course.";
+
+"Please help the patient to take the start position." = "Please help the patient to take the start position.";
+"Start pose detected\nYou may start the test." = "Start pose detected\nYou may start the test.";
+
+/* Chair Stand Tests */
+"Chair Stand Test" = "Chair Stand Tests";
+"Chair Stand" = "Chair Stand";
+
+"Single Chair Stand Test" = "Single Chair Stand Test";
+"Single Chair Stand Instructions Text" = "Let’s do the last movement test.\n\nDo you think it would be safe for you to try to stand up from a chair without using your arms? The next test measures the strength in your legs. First, fold your arms across your chest and sit so that your feet are on the floor; then stand up keeping your arms folded across your chest.";
+
+"Repeated Chair Stand Test" = "Repeated Chair Stand Test";
+"Repeated Chair Stand Instructions Text" = "Do you think it would be safe for you to try to stand up from a chair five times without using your arms? Please stand up straight as QUICKLY as you can five times, without stopping in between. After standing up each time, sit down and then stand up again. Keep your arms folded across your chest.";
+
+"Start position taken\nYou may start the test." = "Start position taken\nYou may start the test.";
+"Please ask the patient to fold their arms across the chest." = "Please ask the patient to fold their arms across the chest.";
+"Please remind the patient not to use their arms." = "Please remind the patient not to use their arms.";
+"Please ask the patient to sit down onto the chair." = "Please ask the patient to sit down onto the chair.";
+"Stand up" = "Stand up";
+"Ready to start" = "Ready to start";
+
+/* Results Export */
+"Total" = "Total";
+"Points" = "Points";
+"Battery Results" = "Battery Results";
+"Tab on the individual parts of the diagram to show details." = "Tab on the individual parts of the diagram to show details.";
+"Tab on a diagram to show more details about the test result." = "Tab on a diagram to show more details about the test result.";
+"Save" = "Save";
+
+"Share Results" = "Share Results";
+"Select how you would like to save the obtained test results." = "Select how you would like to save the obtained test results.";
+"Print" = "Print";
+"Export" = "Export";
+"As PDF document" = "As PDF document";
+"As CSV file" = "As CSV file";
+"Reset" = "Reset";
+"Warning" = "Warning";
+"Are you sure you want to reset the battery?\n\nThis will permanently erase the obtained test results in the application. Make sure you've exported and saved any data beforehand." = "Are you sure you want to reset the battery?\n\nThis will permanently erase the obtained test results in the application. Make sure you've exported and saved any data beforehand.";
+
+"Test Results" = "Test Results";
+
+/* Movement Abnormalities */
+"Movement Details" = "Movement Details";
+"Detected conspicuities in the patient's movement" = "Detected conspicuities in the patient's movement";
+"The patient performed the exercise as expected and kept his arms crossed in front of the chest during the exercise." = "The patient performed the exercise as expected and kept his arms crossed in front of the chest during the exercise.";
+
+"The right arm (from an observer's perspective) was significantly bent more than $share% of the time." = "The right arm (from an observer's perspective) was significantly bent more than $share% of the time.";
+"The left arm (from an observer's perspective) was significantly bent more than $share% of the time." = "The left arm (from an observer's perspective) was significantly bent more than $share% of the time.";
+"Both arms were kept hanging straight for most of the time." = "Both arms were kept hanging straight for most of the time.";
+"The patient used their arms $share% of the time to keep the balance." = "The patient used their arms $share% of the time to keep the balance.";
+"The patient didn't need their arms to hold the balance pose." = "The patient didn't need their arms to hold the balance pose.";
+"They hardly moved at all during the exercise." = "They hardly moved at all during the exercise.";
+"They occasionally swayed slightly during the exercise." = "They occasionally swayed slightly during the exercise.";
+"They wobbled noticeably during the exercise." = "They wobbled noticeably during the exercise.";
+
+"The maximum step length was exceptionally short during the gait." = "The maximum step length was exceptionally short during the gait.";
+"The maximum step length was slightly short during the gait." = "The maximum step length was slightly short during the gait.";
+"The step length was average during the gait." = "The step length was average during the gait.";
+"The step length was well above average during the gait." = "The step length was well above average during the gait.";
+"The patient covered the course in a straight line." = "The patient covered the course in a straight line.";
+"The patient walked the course, swaying slightly." = "The patient walked the course, swaying slightly.";
+"The patient walked slightly in serpentine lines." = "The patient walked slightly in serpentine lines.";
+
+"The patient was unable to cross his arms correctly in front of his chest for more than $share% of the time." = "The patient was unable to cross his arms correctly in front of his chest for more than $share% of the time.";
+"The arms were used illegally for $share% of the time. Perhaps they supporting the patient to stand up." = "The arms were used illegally for $share% of the time. Perhaps they supporting the patient to stand up.";
+"The knee angles of both legs differed significantly during the exercise. The load on the legs is possibly asymmetrical." = "The knee angles of both legs differed significantly during the exercise. The load on the legs is possibly asymmetrical.";
+
